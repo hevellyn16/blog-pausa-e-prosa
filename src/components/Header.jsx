@@ -1,5 +1,3 @@
-// src/components/Header.jsx
-
 export function Header() {
   return (
     <header className="bg-white shadow-md">
